@@ -1,15 +1,40 @@
-# cit-lab2</br>
-Lab goals and outcomes:</br>
+# cit-lab2
 
-Use CLI commands for directory and file manipulation</br>
-Use CLI commands for git commands</br>
-Part 0: Setup git user credentials</br>
-Part 1: New git repository</br>
-Part 2: Initial JavaScript file</br>
-Part 3: Add file to git</br>
-Part 4: Ignoring files</br>
-Part 5: Using diff to see changes</br>
-Part 6: Using wildcards</br>
-Part 7: Cloning cloud repos locally</br>
-Part 8: Branch</br>
+
+Lab goals and outcomes:
+
+
+Use CLI commands for directory and file manipulation
+
+
+Use CLI commands for git commands
+
+
+Part 0: Setup git user credentials
+
+
+Part 1: New git repository
+
+
+Part 2: Initial JavaScript file
+
+
+Part 3: Add file to git
+
+
+Part 4: Ignoring files
+
+
+Part 5: Using diff to see changes
+
+
+Part 6: Using wildcards
+
+
+Part 7: Cloning cloud repos locally
+
+
+Part 8: Branch
+
+
 Part 9: Repo files
